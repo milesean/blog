@@ -25,7 +25,7 @@ SECRET_KEY = 'pr_a4cy__(@@jz9db*u)wes=ywj1z=6oqm1cbyzb)+5+(2o5*z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['milesean.pythonanywhere.com']
 
 
 # Application definition
